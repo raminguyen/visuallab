@@ -1,20 +1,16 @@
 import React from 'react';
 import Container from "./src/Container";
+import PageAnalyticsChart from "./Learn/bar chart/PageAnalyticsChart";
 
 function App () {
 
 return (
 
-    <div className="min-h-screen bg-gray-50 py-12">
+    <div className="min-h-screen bg-slate-900 py-12">
 
         <Container>
 
-           <div>
-                <h1 className="text-5xl font-bold text-blue-100 mb-4">
-                    Hello! I am Rami.
-                </h1>
-        
-            </div>
+            <PageAnalyticsChart />
 
         </Container>
 
