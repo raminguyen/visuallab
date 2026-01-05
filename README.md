@@ -14,7 +14,7 @@ Welcome to Rami's Visual Lab! I created this repo to share my chart visualizatio
 
 ### Let's Collaborate
 
-Want to make these visuals even better? Let's connect!
+Make those visual better? Let's connect!
 
 - [LinkedIn](https://www.linkedin.com/in/raminguyen/)
 - [Email me](mailto:raminguyen12@gmail.com)

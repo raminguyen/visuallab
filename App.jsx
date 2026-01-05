@@ -1,6 +1,6 @@
 import React from 'react';
 import Container from "./src/Container";
-import PageAnalyticsChart from "./Learn/bar chart/PageAnalyticsChart";
+import PageAnalyticsChart from "./Learn/bar_chart/PageAnalyticsChart";
 
 function App () {
 
