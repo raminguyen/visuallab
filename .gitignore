@@ -1,8 +1,0 @@
-# Node modules
-node_modules/
-
-# Project summary folder
-project-summary/
-
-# macOS
-.DS_Store
